@@ -13,7 +13,6 @@ This is an Update of the Click Actions by Mudzereli.
 # Index:
 
 * [Mission folder install](https://github.com/AirwavesMan/epoch-right-click-actions#mission-folder-install)
-* [BattlEye filter install](https://github.com/AirwavesMan/epoch-right-click-actions#battleye-filter-install)
 
 
 **[>> Download <<](https://github.com/AirwavesMan/epoch-right-click-actions/archive/refs/heads/main.zip)**
@@ -66,5 +65,7 @@ https://github.com/AirwavesMan/custom-epoch-functions
 	```	
 	
 	You may have the fn_selfaction.sqf also there. Do not delete it then.
+	
+5. You are done and can use the right-click-actions	with other scripts now.
 	
 	
