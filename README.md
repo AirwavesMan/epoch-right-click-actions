@@ -1,6 +1,6 @@
 # epoch-right-click-actions for Epoch 1.0.7
 
-This is an Update of the Click Actions by Mudzereli.
+This is an Update of the Click Actions by Mudzereli: https://github.com/mudzereli/DayZEpochDeployableBike/tree/master/overwrites/click_actions
 
 # REPORTING ERRORS/PROBLEMS
 
