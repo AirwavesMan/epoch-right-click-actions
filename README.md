@@ -1,4 +1,4 @@
-# epoch-right-click-actions for Epoch 1.0.7
+# epoch-right-click-actions for Epoch 1.0.7+
 
 This is an Update of the Click Actions by Mudzereli: https://github.com/mudzereli/DayZEpochDeployableBike/tree/master/overwrites/click_actions
 
@@ -41,7 +41,7 @@ https://github.com/AirwavesMan/custom-epoch-functions
 3. Find in your init.sqf
 
 	```sqf
-	execFSM "\z\addons\dayz_code\system\player_monitor.fsm";	
+	0 fadeMusic 0;	
 	```
 	
 	And added directly under:
